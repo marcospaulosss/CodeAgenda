@@ -1,0 +1,21 @@
+{
+  "name": "CodeAgenda",
+  "description": "Agenda Telefonica",
+  "main": "",
+  "authors": [
+    "Marcos Santos <marcos.santos@swcom.net.br>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/marcospaulosss/CodeAgenda",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
